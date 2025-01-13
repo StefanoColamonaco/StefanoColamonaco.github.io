@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student @ DTAI, KU Leuven
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: propic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Computer Science</p>
+    <p>office 02.151 Celestijnenlaan 200A 3001 Leuven</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Stefano, a PhD student in the <a href='https://dtai.cs.kuleuven.be/'>DTAI</a> research group at <a href='https://www.kuleuven.be/english/kuleuven/'>KU Leuven</a>, supervised by <a href='https://wms.cs.kuleuven.be/people/lucderaedt'>Luc De Raedt</a> and <a href='https://www.kuleuven.be/wieiswie/en/person/00135696'>Giuseppe Marra</a>. I obtained both my bachelor’s and master’s degrees in Computer Science / Artificial Intelligence at <a href='https://www.unibo.it/en'>University of Bologna</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently working on innovative methods to solve computer vision tasks using a neurosymbolic (NeSy) approach. I am also interested in generative AI and its applications in every field.
