@@ -6,7 +6,7 @@ subtitle: PhD student @ DTAI, KU Leuven
 
 profile:
   align: right
-  image: propic.jpeg
+  image: propic2.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Computer Science</p>
